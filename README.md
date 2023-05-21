@@ -15,7 +15,9 @@ Aplicação feita com base na API ViaCEP, onde existem dois modulos de pesquisa.
 
 ## Prévia do App
 
-<img src="">
+![download](https://github.com/andersonbelderrama/consulta-cep/assets/40325247/9e8d8a27-be69-446a-8f7d-7f774bbc5e35)
+![download (1)](https://github.com/andersonbelderrama/consulta-cep/assets/40325247/c42fc5ac-a79c-4dd8-9507-7b1add4cf640)
+
 
 ## Requisitos
 
